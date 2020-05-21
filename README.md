@@ -1,6 +1,6 @@
 # BandHero
 
-###Scratch project of a guitar hero/rock band like game.
+Scratch project of a guitar hero/rock band like game.
 
 This project can be found here: https://scratch.mit.edu/projects/397919705
 
